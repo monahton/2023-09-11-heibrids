@@ -275,7 +275,7 @@ Everyone who participates in Carpentries activities is required to conform to th
 </p>
 
 <p class="text-center">
-  <a href="https://forms.gle/T3k8uExeyTePmt739">
+  <a href="https://forms.gle/iTTamTTSyTxndEP3A">
     <button type="button" class="btn btn-info">Report a Code of Conduct Incident</button>
   </a>
 </p>
@@ -323,8 +323,8 @@ in `_config.yml` or, if this workshop is teaching a lesson in the Incubator,
 change the value of `carpentry` to `incubator`.
 </div>
 {% else %}
-<p><a href="https://0dio855mq5o.typeform.com/to/sa2IzegH">Pre-workshop Survey</a></p>
-<p><a href="https://0dio855mq5o.typeform.com/to/rBbd5ODK">Post-workshop Survey</a></p>
+<p><a href="https://forms.gle/mfNxN8rkdXZYaP8cA">Pre-workshop Survey</a></p>
+<p><a href="https://forms.gle/GS3KSzAGumHC67rz5">Post-workshop Survey</a></p>
 {% endif %}
 
 <hr/>
